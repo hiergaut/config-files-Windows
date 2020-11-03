@@ -1,0 +1,3 @@
+
+nmap <home> :tabNext<CR>
+nmap <end> :tabnext<CR>
